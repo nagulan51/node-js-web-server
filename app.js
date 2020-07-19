@@ -1,6 +1,5 @@
 //npm i -g nodemon 
 // run project npm run start
-//https://www.youtube.com/watch?v=Q8wacXNngXs temps arret :26:00
 let express = require('express')
 let app = express()
 let bodyParser = require('body-parser')
